@@ -3,3 +3,7 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=honinbo6355&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Hi there 👋
+
+<a href="https://hhpluscertificateofcompletion.oopy.io/">
+  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" />
+</a>
